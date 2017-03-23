@@ -1,0 +1,20 @@
+[
+{
+	"modid": "Lucre",
+	"name": "Lucre",
+	"description": "Monetary system for fantasy currency and economy in Minecraft servers.",
+	"version": "${version}",
+	"mcversion": "${mcversion}",
+	"url": ""
+	"updateUrl": "",
+	"authorList": [ "sanjurjo7" ],
+	"credits": "By sanjurjo7, with the help of many.",
+	"logoFile": "",
+	"screenshots": [
+	],
+	"parent": "",
+	"dependencies": [
+	]
+}
+]
+
